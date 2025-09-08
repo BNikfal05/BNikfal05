@@ -42,7 +42,7 @@ _Waterloo Aerial Robotics Group (Sep 2024–Dec 2024, Waterloo, ON)_
 
 ## 🧑‍💻 Featured Projects
 
-- [**STM32_VScode_Tag**](https://github.com/BNikfal05/STM_VScode_Tag): STM32 NFC tag data logger w/ energy harvesting, password security & EEPROM logging (Private for Research but feel free to ask me about it).
+- [**STM32_VScode_Tag**](https://github.com/BNikfal05/STM_VScode_Tag): STM32 NFC tag data logger w/ energy harvesting, password security & EEPROM logging (Private for Research).
 - [**CUDA-Matrix-Multiplication-**](https://github.com/BNikfal05/CUDA-Matrix-Multiplication-): GPU-accelerated matrix multiplication for high-throughput parallel compute.
 - [**ADXL362Calibration**](https://github.com/BNikfal05/ADXL362Calibration): MEMS accelerometer calibration routines with embedded C on STM32.
 
@@ -66,7 +66,6 @@ _Waterloo Aerial Robotics Group (Sep 2024–Dec 2024, Waterloo, ON)_
 
 - **Email:** bnikfal@uwaterloo.ca
 - **LinkedIn:** [linkedin.com/in/bornanikfal](https://linkedin.com/in/bornanikfal)
-- **GitHub:** [github.com/BNikfal05](https://github.com/BNikfal05)
 
 ---
 
