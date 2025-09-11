@@ -58,7 +58,6 @@ _Waterloo Aerial Robotics Group (Sep 2024–Dec 2024, Waterloo, ON)_
 - FPGA & VHDL Design
 - GPU Computing (CUDA)
 - IoT Security
-- Ping-pong, softball, and Iranian Students Association
 
 ---
 
